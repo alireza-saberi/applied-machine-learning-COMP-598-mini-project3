@@ -16,6 +16,6 @@ University	of	Montreal	(Pierre	Luc	Carrier,	Aaron	Courville).	It	is	shared
 under	the	understanding	that	it	can	only	be	used	for	the	purposes	of	this	
 project,	and	cannot	be	shared	outside	of	the	course.<p>
 
-<p style="text-align:justify">In this report, authors have approached \hard digit classifcation" task using dierent classiers and preprocessing steps. The raw dataset is a modied version of the popular MNIST digit classication dataset. The performances of logistic regression, feed forward neural network, linear SVM and convolutional neural net have been compared. Convolutional neural network shows the best accuracy 93.69% (submitted on Kaggle), followed by SVM (38.1%), Feed forward neural network (35.37%) and logistic regression (25.58%), respectively.</p>
+<p style="text-align:justify">In this report, authors have approached \hard digit classifcation" task using dierent classiers and preprocessing steps. The raw dataset is a modied version of the popular <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a> digit classication dataset. The performances of logistic regression, feed forward neural network, linear SVM and convolutional neural net have been compared. Convolutional neural network shows the best accuracy 93.69% (submitted on Kaggle), followed by SVM (38.1%), Feed forward neural network (35.37%) and logistic regression (25.58%), respectively.</p>
 
 <p>We got 2nd place on class competition! among 21 teams</p>
